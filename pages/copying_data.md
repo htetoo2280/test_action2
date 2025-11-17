@@ -15,7 +15,7 @@
   ```
 -
 - CSV
-- ```
+- ```sql
   COPY report.PBI_Report_Dictionary 
   FROM 's3://acoe-datalake-raw/temp/report_dict/report_dict.csv'
   IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
@@ -26,7 +26,7 @@
   ```
 -
 - tse_mapping
-- ```
+- ```sql
   COPY #kpay_center_agent_tse_mapping
   FROM 's3://acoe-datalake-raw/Pay/kpay_center_mapping_csv_manual/Center_Mapping_Format_2025-07-04.csv'
   IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
@@ -36,4 +36,6 @@
   ```
 -
 -
+- ```
+  ```
 -
