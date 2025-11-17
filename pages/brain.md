@@ -1,0 +1,5 @@
+- [[ArchitecturePatterns]]
+- [[DebugPatterns]]
+- [[Ideas]]
+- [[Questions]]
+-
