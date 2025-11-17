@@ -423,4 +423,5 @@
  :orphan-pages? true}
  :graph/forcesettings {:link-dist 80
  :charge-strength -300
- :charge-range 1300}}
+ :charge-range 1300}
+ :journal/page-title-format "E, dd-MM-yyyy"}
