@@ -1,5 +1,5 @@
 - Redshift to s3
-- ``` 
+- ```sql 
   UNLOAD ('SELECT * FROM test_cbs.dev_ictm_acc')
   TO 's3://acoe-datalake/dev/raw/previous_data/'
   IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
@@ -7,7 +7,7 @@
   ```
 -
 - s3 to redshift
-- ```
+- ```sql
   COPY hol.dev_ictm_acc_06_mar_previous
   FROM 's3://acoe-datalake/dev/raw/previous_data/'
   IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
