@@ -12,5 +12,5 @@
 - can't define standing instruction
 - ![image.png](../assets/image_1763523696908_0.png)
 -
-- [[cbs_understanding]]
+-
 -
