@@ -1,10 +1,13 @@
 - correct trial model is derive.cbs_daily_gl_bal_trn
 - this is coming from staging.stg_acoe_cbs_staging_opening
+-
 - ![image.png](../assets/image_1763541551609_0.png)
 -
-- staging.stg_acoe_cbs_staging_opening
+- staging.stg_acoe_cbs_staging_opening (using cbs.actb_history)
 	- this is the customer account level opening, transaction and closing.
 	- because of the nature of OD and current account.
 	- so need to define as credit_gl or debit_gl to get a correct trial.
 -
+- cbs_daily_gl_bal_trn
+	- this is the final model of trial balance that is converted to correct gl.
 -
