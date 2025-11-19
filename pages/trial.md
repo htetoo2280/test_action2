@@ -4,4 +4,7 @@
 -
 - staging.stg_acoe_cbs_staging_opening
 	- this is the customer account level opening, transaction and closing.
-	- because of the na
+	- because of the nature of OD and current account.
+	- so need to define as credit_gl or debit_gl to get a correct trial.
+-
+-
