@@ -1,3 +1,6 @@
 - correct trial model is derive.cbs_daily_gl_bal_trn
 - this is coming from staging.stg_acoe_cbs_staging_opening
+- ![image.png](../assets/image_1763541551609_0.png)
 -
+- staging.stg_acoe_cbs_staging_opening
+	- this is the customer account level
