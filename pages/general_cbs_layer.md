@@ -1,6 +1,8 @@
+- group by product code and tran code
 - ![image.png](../assets/image_1763523427423_0.png)
 -
 -
+- CASA only
 - ![image.png](../assets/image_1763523450967_0.png)
 -
 -
