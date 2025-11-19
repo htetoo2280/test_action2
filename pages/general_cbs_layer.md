@@ -8,6 +8,7 @@
 -
 -
 - trn category group
+- dimension.cbs_trn_category(category master)
 - ![image.png](../assets/image_1763523696908_0.png)
 -
 -
