@@ -1,4 +1,5 @@
 - group by product code and tran code
+	- tran code (cust trn or others)
 - ![image.png](../assets/image_1763523427423_0.png)
 -
 -
