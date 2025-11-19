@@ -3,4 +3,5 @@
 - ![image.png](../assets/image_1763541551609_0.png)
 -
 - staging.stg_acoe_cbs_staging_opening
-	- this is the customer account level
+	- this is the customer account level opening, transaction and closing.
+	- because of the na
