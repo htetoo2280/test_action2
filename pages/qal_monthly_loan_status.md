@@ -81,4 +81,44 @@
        where source_code='CARDDATA')b 
        on  a.acct = b.asset_reference_no
   ```
-- stg_cbs_cntb_asset_extract_details = all loan with dpd group by with
+-
+-
+- stg_cbs_cntb_asset_extract_details = all loan with dpd group by with product_code
+-
+-
+- ```sql
+  
+  mortgage_plsl as
+   (select case when product_id in ('MTL1', 'MT01', 'MTL2','MTL3') then 'MORTGAGE' 
+                when product_id in ('PL01') then 'PL'
+                when product_id in ('SL01') then 'SL' end as product
+           ,b.unique_id_value as nrc
+           ,dpd
+  from
+      (
+          select
+               insertdate
+              ,asset_reference_no as loan_ac_number
+              ,branch_code
+              ,asset_product      as product_id
+              ,settlement_account_number
+              ,npl_pl
+              ,asset_earliest_ovd as dpd
+              ,loan_facility_creation_date
+              ,loan_facility_expiry_date
+              ,customer_id
+              ,customer_name
+          from
+              {{ ref('stg_cbs_bitb_lncol_portfolio') }}  ----- all loan 
+          where
+              asset_product in ( 'SL01', 'PL01', 'MTL1', 'MT01', 'MTL2',
+                                 'MTL3' )
+          and date(insertdate) = date(sysdate)
+      )                                        a
+      left join {{ ref('stg_cbs_sttm_customer') }} b on a.customer_id = b.customer_no  -- sttm_personal
+  ```
+-
+- stg_cbs_bitb_lncol_portfolio = all loan master
+- stg_cbs_sttm_customer = customer nrc master
+-
+-
