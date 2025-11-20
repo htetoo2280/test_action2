@@ -22,3 +22,16 @@
 - **Observation:**
 - Join queries `ac_no` အပေါ် မှန် → same node → fast
 - Note column stored along with row → scan depends on slice
+-
+- ----------------
+-
+- ## **DISTSTYLE ALL Example**
+- Table ကို **node အားလုံးမှာ copy**
+- Node1 Slice1 = 8 rows
+- Node1 Slice2 = 8 rows
+- Node2 Slice1 = 8 rows
+- Node2 Slice2 = 8 rows
+  
+  Join query → ultra-fast
+  
+  Storage consumption ↑
