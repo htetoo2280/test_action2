@@ -16,4 +16,5 @@
 - Note column သာပေါင်းပြီး scan → slice အလိုက် storage
 -
 - ------------
+- ![image.png](../assets/image_1763612792078_0.png)
 -
