@@ -42,3 +42,17 @@
 -
 - kbz_iss_card_vw is final master table but some data are missing in kbz_iss_card_vw but data is in kbz_os_vw
 - so need to join the two tables
+-
+- ```sql
+  
+  select
+       case when c.card_type = 'MPU' then 'MPU'
+            when c.card_type = 'UPI' then 'UPI'end as product
+      ,a.cardholder_last_identity as nrc
+      ,(b.aging_period  * 30) as dpd
+   from cbs.kbz_iss_card_vw a
+      join cbs.kbz_os_vw b  on a.card_number=b.card_number --- why need to inner join .
+      join (select * from {{ ref('stg_lookup_card_product') }} where credit_contract='1' and card_type in ('UPI','MPU'))c on substring(a.card_number,1,8)=c.bin
+      where  a.expiry_date >'31-DEC-23'
+  
+  ```
