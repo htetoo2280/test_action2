@@ -40,4 +40,5 @@
   kbz_iss_card_vw -- master
   ```
 -
-- kbz_iss_card_vw is final master table but
+- kbz_iss_card_vw is final master table but some data are missing in kbz_iss_card_vw but data is in kbz_os_vw
+- so
