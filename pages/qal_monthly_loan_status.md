@@ -1,3 +1,9 @@
+- summary
+	- stg_cbs_bitb_lncol_portfolio = all loan master
+	- stg_cbs_sttm_customer = customer nrc master
+	- sttm_personal = customer master
+	- lookup.card_product = card defination
+-
 -
 - ```sql
   
@@ -120,5 +126,6 @@
 -
 - stg_cbs_bitb_lncol_portfolio = all loan master
 - stg_cbs_sttm_customer = customer nrc master
+- sttm_personal = customer master
 -
 -
