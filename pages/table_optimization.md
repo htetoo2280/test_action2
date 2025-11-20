@@ -35,3 +35,7 @@
   Join query → ultra-fast
   
   Storage consumption ↑
+-
+- ![image.png](../assets/image_1763613117912_0.png)
+-
+-
