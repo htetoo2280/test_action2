@@ -56,3 +56,29 @@
       where  a.expiry_date >'31-DEC-23'
   
   ```
+-
+-
+- ```sql
+  
+  select distinct source_code from cbs.cntb_asset_extract_details
+  
+  ODDATA	
+  CARDDATA	--- ***
+  HPDATA	 
+  LOANDATA	
+  FLEXCUBE	
+  
+  select
+       case when a.productname like 'MPU%' then 'MPU'else 'UPI'end as product
+      ,REGEXP_REPLACE(ID_NO, '\\s*\\([^()]*\\)$', '') as nrc
+      ,case when a.acct = b.asset_reference_no then b.asset_earliest_ovd else 0 end as dpd
+  from
+      (select *from  {{ ref('stg_cbs_crd_lst') }} cl  
+      where expir_date <='31-DEC-23'
+       )a
+  left join 
+      (select * from {{ ref('stg_cbs_cntb_asset_extract_details') }} -- all loan with dpd filter with product_code
+       where source_code='CARDDATA')b 
+       on  a.acct = b.asset_reference_no
+  ```
+- stg_cbs_cntb_asset_extract_details = all loan with dpd group by with
