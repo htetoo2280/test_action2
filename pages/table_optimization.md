@@ -16,5 +16,9 @@
 - Note column သာပေါင်းပြီး scan → slice အလိုက် storage
 -
 - ------------
-- ![image.png](../assets/image_1763612792078_0.png)
 -
+- ![image.png](../assets/image_1763612862627_0.png)
+-
+- **Observation:**
+- Join queries `ac_no` အပေါ် မှန် → same node → fast
+- Note column stored along with row → scan depends on slice
