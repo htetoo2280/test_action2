@@ -43,6 +43,12 @@
 -
 -
 - ## sortkey
+	- Table rows တွေကို **slice အတွင်းအတိုင်း sort လုပ်ထားတာ** = SORTKEY
+	- SORTKEY လုပ်ထားရင် **filter, range scan, join performance မြန်**
+	- SORTKEY → slice အတွင်း row order / storage order
+-
+-
+-
 -
 -
 -
