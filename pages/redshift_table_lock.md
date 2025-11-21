@@ -48,5 +48,36 @@
   select * from stv_recents  where status <> 'Done' order by starttime desc 
   ```
 -
+- --------------------
+-
+- ## update
+- ```sql
+  
+  SELECT oid, relname ,*
+  FROM pg_class
+  WHERE relname = 'kpay_cust_profile';  ---50672073
+  
+  SELECT c.oid, n.nspname AS schema, c.relname AS table_name
+  FROM pg_class c
+  JOIN pg_namespace n ON n.oid = c.relnamespace
+  WHERE n.nspname = 'dimension'
+    AND c.relname = 'kpay_cust_profile';
+  
+  
+  SELECT * 
+  FROM stv_locks
+  WHERE table_id = '50672073';
+  
+  SELECT *  ---- invisable lock
+  FROM stv_recents
+  ORDER BY starttime DESC;
+  
+  SELECT *
+  FROM stv_inflight;
+  
+  SELECT *
+  FROM SVV_TABLE_INFO
+  WHERE table_id = '50672073';
+  ```
 -
 - ပြန်စစ်
