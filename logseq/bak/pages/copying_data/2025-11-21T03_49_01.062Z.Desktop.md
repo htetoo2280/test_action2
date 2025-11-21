@@ -1,0 +1,39 @@
+- Redshift to s3
+- ``` 
+  UNLOAD ('SELECT * FROM test_cbs.dev_ictm_acc')
+  TO 's3://acoe-datalake/dev/raw/previous_data/'
+  IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
+  FORMAT AS PARQUET;
+  ```
+-
+- s3 to redshift
+- ```
+  COPY hol.dev_ictm_acc_06_mar_previous
+  FROM 's3://acoe-datalake/dev/raw/previous_data/'
+  IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
+  FORMAT AS PARQUET;
+  ```
+-
+- CSV
+- ```
+  COPY report.PBI_Report_Dictionary 
+  FROM 's3://acoe-datalake-raw/temp/report_dict/report_dict.csv'
+  IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
+  FORMAT AS CSV
+  DELIMITER ',' 
+  QUOTE '"'
+  IGNOREHEADER 1;
+  ```
+-
+- tse_mapping
+- ```
+  COPY #kpay_center_agent_tse_mapping
+  FROM 's3://acoe-datalake-raw/Pay/kpay_center_mapping_csv_manual/Center_Mapping_Format_2025-07-04.csv'
+  IAM_ROLE 'arn:aws:iam::390295393321:role/acoe-redshift-unload'
+  CSV
+  DELIMITER ','
+  IGNOREHEADER 1 ;
+  ```
+-
+-
+-
