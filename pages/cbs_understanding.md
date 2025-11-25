@@ -4,6 +4,8 @@
   where is_current = 1 group by branch_code order by branch_code
   ```
 -
+	- cbs.actb_bal_history --- > base.cbs_acc_bal_trn
+	- this is correct for len(
 -
 -
 - tran
