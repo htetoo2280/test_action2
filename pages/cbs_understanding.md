@@ -1,4 +1,4 @@
-## base.cbs_acc_bal_trn
+## base.cbs_acc_bal_trn (Master history)
 - ```sql
   select branch_code,sum(lcy_bal) as lcy_bal from base.cbs_acc_bal_trn 
   where is_current = 1 group by branch_code order by branch_code
@@ -8,6 +8,8 @@
 	- this is correct for len(ac_no) = 17  (only diff 3000 ks in 999 branch)
 -
 - ## cbs.actb_history (transaction table)
+	- if want to take gl , use cbs.actb_history
+-
 -
 -
 -
