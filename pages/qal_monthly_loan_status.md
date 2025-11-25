@@ -3,6 +3,7 @@
 	- stg_cbs_sttm_customer = customer nrc master
 	- sttm_personal = customer master
 	- lookup.card_product = card definition (credit_contract 1 is credit  , 0 debit)
+	- kpay_org_details = kpay user
 	-
 	-
 -
