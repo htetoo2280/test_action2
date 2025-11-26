@@ -109,13 +109,19 @@
 		- CBS.CSTM_PRODUCT (detail product classification)
 		  background-color:: blue
 		- LOOKUP.CBS_PRODUCT (function code that can be match with product_code)
-		-
+		  background-color:: blue
+		- background-color:: blue
 	- remark - function code is more detail than product_code
-	-
+	  background-color:: blue
+	- background-color:: blue
 	- remark - you can define a product by 3 type.
+	  background-color:: blue
 		- account class (config)
+		  background-color:: blue
 		- product (operation useage)
+		  background-color:: blue
 		- function code
+		  background-color:: blue
 - ------
 - CBS.CSTM_PRODUCT (operation useage)
 	- this table store financial products and services offered by the bank
@@ -125,7 +131,12 @@
 		  ```
 -
 - ---------
--
+- LOOKUP.CBS_PRODUCT
+	- keeps mapping between product and function code
+		- ```sql
+		  product
+		  
+		  ```
 -
 -
 -
