@@ -109,6 +109,8 @@
 		- CBS.CSTM_PRODUCT (detail product classification)
 		  background-color:: blue
 		- LOOKUP.CBS_PRODUCT (function code that can be match with product_code)
+		-
+	- remark - function code is more detail than product_code
 	-
 	- remark - you can define a product by 3 type.
 		- account class (config)
