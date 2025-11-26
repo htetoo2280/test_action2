@@ -47,6 +47,7 @@
 		- tc_branch_status (Operational status of the branch to be considered for TC) eg. Open, Closed
 -
 - Account Class or Product Master
-	- account_class (code)
-	- description (product name)
+	- cbs.sttm_account_class
+		- account_class (code)
+		- description (product name)
 	-
