@@ -100,7 +100,7 @@
 - -----------------
 - account_class and product understanding
   background-color:: blue
-	- there are 3 types of table
+	- there are 4 types of table
 	  background-color:: blue
 		- CBS.STTM_ACCOUNT_CLASS_STATUS (config table)
 		  background-color:: blue
@@ -108,11 +108,12 @@
 		  background-color:: blue
 		- CBS.CSTM_PRODUCT (detail product classification)
 		  background-color:: blue
+		- LOOKUP.CBS_PRODUCT (function code that can be match with )
 	-
 	- remark - you can define a product by 3 type.
 		- account class (config)
 		- product (operation useage)
-		- function
+		- function code
 - ------
 - CBS.CSTM_PRODUCT (operation useage)
 	- this table store financial products and services offered by the bank
@@ -120,6 +121,7 @@
 		  product_code
 		  product_description
 		  ```
+-
 -
 -
 -
