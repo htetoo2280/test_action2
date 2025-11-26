@@ -12,7 +12,7 @@
 - ------------
 - Customer Master Link Table
 	- CBS.STTM_CUST_ACCOUNT (cust_ac_no,cust_no)
-	- ```text
+	- ```sql
 	  KBZ Bank Account has 17 digits. (e.g 02130102145833301)
 	  	1-3 = account branch code
 	  	4-6 = account class/type
