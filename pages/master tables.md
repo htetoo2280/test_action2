@@ -1,4 +1,5 @@
 - Customer Master Tables (pure customer)
+  title:: master tables
 	- CBS.STTM_CUSTOMER (**customer_no**)
 		- customer_type
 			- Indicates whether the customer is Individual (‘I’) or Corporate (‘C’), Bank (‘B’)
@@ -32,6 +33,8 @@
 - -----------------------------
 - Branch Master
 	- CBS.STTM_BRANCH
--
+	- ```sql
+	  select * from CBS.STTM_BRANCH where branch_code <= '021' order by branch_code
+	  ```
 -
 -
