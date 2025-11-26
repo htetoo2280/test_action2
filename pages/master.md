@@ -11,5 +11,5 @@
 		- mobile_number
 - ------------
 - Customer Master Link Table
-	- **CBS.STTM_CUST_ACCOUNT**
+	- CBS.STTM_CUST_ACCOUNT (customer_account)
 	-
