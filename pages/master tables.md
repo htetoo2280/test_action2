@@ -41,5 +41,6 @@
 	- dimension.cbs_branch (used)
 		- branch_status (open , closed)
 		- head_count
-		- territory (Branch Operations) eg .
--
+		- territory (Branch Operations) eg. Yangon,Naypyitaw and Lower Myanmar
+		- ri_name (Regional In-Charge Name) eg. Daw Khet Khet Nwe
+		-
