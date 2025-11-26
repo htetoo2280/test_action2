@@ -77,8 +77,13 @@
 - ParaTable
 	- this table is use for gl posting d or c by account_class and status
 		- CBS.STTM_ACCOUNT_CLASS_STATUS
+			- ```sql
+			  account_class
+			  status
+			  
+			  ```
 			-
 - TranCode Table
-	- this table is use for
+	- this table is use for transaction classification which trancode is use for.
 		- CBS.STTM_TRN_CODE
 	-
