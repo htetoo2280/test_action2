@@ -73,6 +73,8 @@
 	  gl_desc
 	  parent_gl
 	  ```
-	-
+-
+- ParaTable
+-
 	- CBS.STTM_ACCOUNT_CLASS_STATUS
-	-
+		-
