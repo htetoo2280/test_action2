@@ -52,7 +52,7 @@
 		- ~~account_class (code)~~
 		- ~~description (product name)~~
 		-
-	- dimension.cbs_acc_class
+	- dimension.cbs_acc_class (use this instead of ~~CBS.STTM_ACCOUNT_CLASS~~)
 		- lookup.cbs_acc_class +
 		- cbs.sttm_account_class(unknow source) +
 		- lookup.cbs_acc_class_dbu_csv (csv)
