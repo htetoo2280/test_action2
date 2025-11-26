@@ -50,7 +50,8 @@
 - Account Class or Product Master
 	- ~~CBS.STTM_ACCOUNT_CLASS~~
 		- ~~account_class (code)~~
-		- description (product name)
+		- ~~description (product name)~~
 		-
-	-
+	- dimension.cbs_acc_class
+		- lookup.cbs_acc_class +
 	-
