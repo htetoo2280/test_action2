@@ -50,6 +50,6 @@
 	- CBS.STTM_ACCOUNT_CLASS
 		- account_class (code)
 		- description (product name)
-	-
+		-
 	-
 	-
