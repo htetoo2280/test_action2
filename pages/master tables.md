@@ -114,7 +114,11 @@
 		- product (operation useage)
 - ------
 - CBS.CSTM_PRODUCT (operation useage)
-	-
+	- this table store financial products and services offered by the bank
+		- ```sql
+		  product_code
+		  product_description
+		  ```
 -
 -
 -
