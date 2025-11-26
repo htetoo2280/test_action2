@@ -1,7 +1,9 @@
 - Customer Master Tables
 	- CBS.STTM_CUSTOMER
 		- customer_type
-			- **Indicates whether the customer is Individual (‘I’) or Corporate (‘C’), Bank (‘B’)**
+			- Indicates whether the customer is Individual (‘I’) or Corporate (‘C’), Bank (‘B’)
 		- record_status
-			-
+			- Record status (O – Open, C – Closed)
+	- CBS.STTM_CUST_PERSONAL
+		-
 		-
