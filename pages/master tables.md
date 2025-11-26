@@ -135,8 +135,12 @@
 	- keeps mapping between product and function code
 		- ```sql
 		  product
-		  
+		  product_desc
+		  function_code
 		  ```
+-
+- -------------------
+-
 -
 -
 -
