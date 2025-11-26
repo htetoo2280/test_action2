@@ -67,11 +67,12 @@
 			  ```
 			-
 - CBS.GLTM_GLMASTER (not include balance , use for mapping only)
+	-
 	- ```sql
 	  gl_code
 	  gl_desc
 	  parent_gl
 	  ```
 	-
-	-
+	- CBS.STTM_ACCOUNT_CLASS_STATUS
 	-
