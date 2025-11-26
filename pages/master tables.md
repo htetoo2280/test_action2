@@ -39,5 +39,7 @@
 	- but it is not used because this is raw
 	-
 	- dimension.cbs_branch (used)
-		-
+		- branch_status (open , closed)
+		- head_count
+		- territory (Branch Operations) eg .
 -
