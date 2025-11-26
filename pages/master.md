@@ -10,7 +10,7 @@
 		- telephone
 		- mobile_number
 - ------------
-- Customer Master Link Table or Master Table
+- Customer Master Link Table or Master Table (pure customer)
 	- CBS.STTM_CUST_ACCOUNT (cust_ac_no,cust_no)
 	- ```sql
 	  KBZ Bank Account has 17 digits. (e.g 02130102145833301)
