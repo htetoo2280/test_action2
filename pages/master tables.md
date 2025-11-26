@@ -32,12 +32,12 @@
 	  ```
 - -----------------------------
 - Branch Master
-	- CBS.STTM_BRANCH
+	- ~~CBS.STTM_BRANCH~~
 	  background-color:: gray
 	- ```sql
 	  select * from CBS.STTM_BRANCH where branch_code <= '021' order by branch_code
 	  ```
-	- but it is not used because this is raw
+	- ~~but it is not used because this is raw~~
 	-
 	- dimension.cbs_branch (used)
 		- branch_status (open , closed)
@@ -48,8 +48,8 @@
 		- tc_branch_status (Operational status of the branch to be considered for TC) eg. Open, Closed
 -
 - Account Class or Product Master
-	- CBS.STTM_ACCOUNT_CLASS
-		- account_class (code)
+	- ~~CBS.STTM_ACCOUNT_CLASS~~
+		- ~~account_class (code)~~
 		- description (product name)
 		-
 	-
