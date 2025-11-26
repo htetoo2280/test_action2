@@ -75,6 +75,8 @@
 	  ```
 -
 - ParaTable
--
+	- this table is use for gl posting d or c by account_class
 	- CBS.STTM_ACCOUNT_CLASS_STATUS
 		-
+-
+	-
