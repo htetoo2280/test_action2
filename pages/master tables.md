@@ -56,13 +56,13 @@
 		- lookup.cbs_acc_class +
 		- cbs.sttm_account_class(unknow source) +
 		- lookup.cbs_acc_class_dbu_csv (csv)
-			- | acc_class|
-			  | acc_desc |
-			  | acc_category |
-			  | classification_group |
-			  | classification_finance |
-			  | classification_deposit |
-			  | deposit_flag |
+			- | acc_clas
+			  | acc_desc
+			  | acc_category
+			  | classification_group
+			  | classification_finance
+			  | classification_deposit
+			  | deposit_flag
 			-
 		-
 	-
