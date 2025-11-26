@@ -99,16 +99,19 @@
 -
 - -----------------
 - account_class and product understanding
-  background-color:: yellow
+  background-color:: blue
 	- there are 3 types of table
-	  background-color:: yellow
+	  background-color:: blue
 		- CBS.STTM_ACCOUNT_CLASS_STATUS (config table)
-		  background-color:: yellow
+		  background-color:: blue
 		- dimension.cbs_acc_class (dbt model)
-		  background-color:: yellow
+		  background-color:: blue
 		- CBS.CSTM_PRODUCT (detail product classification)
-		  background-color:: yellow
+		  background-color:: blue
 -
+	-
+- ------
+- CBS.CSTM_PRODUCT
 	-
 -
 -
