@@ -108,8 +108,9 @@
 		  background-color:: blue
 		- CBS.CSTM_PRODUCT (detail product classification)
 		  background-color:: blue
--
 	-
+	- remark - you can define
+		-
 - ------
 - CBS.CSTM_PRODUCT
 	-
