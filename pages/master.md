@@ -1,4 +1,4 @@
-- Customer Master Tables
+- Customer Master Tables (pure customer)
 	- CBS.STTM_CUSTOMER (**customer_no**)
 		- customer_type
 			- Indicates whether the customer is Individual (‘I’) or Corporate (‘C’), Bank (‘B’)
