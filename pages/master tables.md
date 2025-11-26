@@ -51,7 +51,7 @@
 	- ~~CBS.STTM_ACCOUNT_CLASS~~
 		- ~~account_class (code)~~
 		- ~~description (product name)~~
-		-
+-
 	- dimension.cbs_acc_class (use this instead of ~~CBS.STTM_ACCOUNT_CLASS~~)
 		- lookup.cbs_acc_class +
 		- cbs.sttm_account_class(unknow source) +
@@ -65,7 +65,7 @@
 			  classification_deposit
 			  deposit_flag
 			  ```
-			-
+	- -------------
 - CBS.GLTM_GLMASTER (not include balance , use for mapping only)
 	- this table is use for gl mapping with parent_gl and desc
 		- ```sql
@@ -73,6 +73,8 @@
 		  gl_desc
 		  parent_gl
 		  ```
+-
+- ------------------
 -
 - ParaTable
 	- this table is use for gl posting d or c by account_class and status
@@ -83,7 +85,8 @@
 			  dr_gl
 			  cr_gl
 			  ```
-			-
+- -------------
+-
 - TranCode Table
 	- this table is use for transaction classification which trancode is use for.
 		- CBS.STTM_TRN_CODE
