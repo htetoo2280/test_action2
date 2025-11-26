@@ -109,10 +109,11 @@
 		- CBS.CSTM_PRODUCT (detail product classification)
 		  background-color:: blue
 	-
-	- remark - you can define
-		-
+	- remark - you can define a product by 2 type.
+		- account class (config)
+		- product (operation useage)
 - ------
-- CBS.CSTM_PRODUCT
+- CBS.CSTM_PRODUCT (operation useage)
 	-
 -
 -
