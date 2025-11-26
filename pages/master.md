@@ -1,0 +1,3 @@
+- Customer Master Tables
+	- CBS.STTM_CUSTOMER
+		-

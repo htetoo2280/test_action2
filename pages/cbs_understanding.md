@@ -1,4 +1,9 @@
-## base.cbs_acc_bal_trn (Master history)
+- [[master]]
+-
+-
+-
+-
+- ## base.cbs_acc_bal_trn (Master history)
 - ```sql
   select branch_code,sum(lcy_bal) as lcy_bal from base.cbs_acc_bal_trn 
   where is_current = 1 group by branch_code order by branch_code
