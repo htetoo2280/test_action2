@@ -5,5 +5,9 @@
 		- record_status
 			- Record status (O – Open, C – Closed)
 	- CBS.STTM_CUST_PERSONAL
+		- date_of_birth
+		- sex
+		- telephone
+		- mobile_number
 		-
 		-
