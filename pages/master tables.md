@@ -76,7 +76,7 @@
 -
 - ------------------
 -
-- ParaTable
+- ParaTable (config table)
 	- this table is use for gl posting d or c by account_class and status
 		- CBS.STTM_ACCOUNT_CLASS_STATUS
 			- ```sql
@@ -99,5 +99,7 @@
 -
 - -----------------
 - account_class and product understanding
-	-
--
+	- there are 3 types of table
+		- CBS.STTM_ACCOUNT_CLASS_STATUS (config table)
+		- dimension.cbs_acc_class (dbt model)
+		-
