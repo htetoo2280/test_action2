@@ -102,4 +102,5 @@
 	- there are 3 types of table
 		- CBS.STTM_ACCOUNT_CLASS_STATUS (config table)
 		- dimension.cbs_acc_class (dbt model)
-		-
+		- CBS.CSTM_PRODUCT
+-
