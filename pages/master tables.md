@@ -53,7 +53,7 @@
 		- ~~description (product name)~~
 -
 	- dimension.cbs_acc_class (use this instead of ~~CBS.STTM_ACCOUNT_CLASS~~)
-		- lookup.cbs_acc_class +
+		- lookup.cbs_acc_class (unknow source) +
 		- cbs.sttm_account_class  +
 		- lookup.cbs_acc_class_dbu_csv (csv)
 			- ```sql
