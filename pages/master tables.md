@@ -66,7 +66,8 @@
 			  deposit_flag
 			  ```
 			-
-		-
-			-
-		-
+- CBS.GLTM_GLMASTER (not include balance , use for )
+	-
+	-
+	-
 	-
