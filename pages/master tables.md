@@ -66,8 +66,12 @@
 			  deposit_flag
 			  ```
 			-
-- CBS.GLTM_GLMASTER (not include balance , use for )
-	-
+- CBS.GLTM_GLMASTER (not include balance , use for mapping only)
+	- ```sql
+	  gl_code
+	  gl_desc
+	  parent_gl
+	  ```
 	-
 	-
 	-
