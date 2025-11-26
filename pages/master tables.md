@@ -109,9 +109,10 @@
 		- CBS.CSTM_PRODUCT (detail product classification)
 		  background-color:: blue
 	-
-	- remark - you can define a product by 2 type.
+	- remark - you can define a product by 3 type.
 		- account class (config)
 		- product (operation useage)
+		- function
 - ------
 - CBS.CSTM_PRODUCT (operation useage)
 	- this table store financial products and services offered by the bank
