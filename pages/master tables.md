@@ -36,5 +36,8 @@
 	- ```sql
 	  select * from CBS.STTM_BRANCH where branch_code <= '021' order by branch_code
 	  ```
-	- but
+	- but it is not used because this is raw
+	-
+	- dimension.cbs_branch (used)
+		-
 -
