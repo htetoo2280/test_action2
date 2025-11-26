@@ -48,4 +48,5 @@
 -
 - Account Class or Product Master
 	- account_class (code)
+	- description (product name)
 	-
