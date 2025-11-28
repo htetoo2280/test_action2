@@ -1,3 +1,7 @@
+## Checking Table
+	-
+-
+-
 - correct trial model is derive.cbs_daily_gl_bal_trn
 - this is coming from staging.stg_acoe_cbs_staging_opening
 -
