@@ -1,7 +1,12 @@
 ## Checking Table
 	- ```sql
-	  select ac_branch,ac_no,sum(case when drcr_ind = 'C' then lcy_amount else lcy_amount* -1 end) as lcy_bal from cbs.actb_history 
-	  where  ac_no = '100300465' group by ac_branch,ac_no 
+	  select ac_branch,ac_no,sum(case when drcr_ind = 'C' then 
+	  lcy_amount else lcy_amount* -1 end) as lcy_bal from cbs.actb_history 
+	  where  ac_no = '100300465' group by ac_branch,ac_no 	
+	  
+	  
+	  select sum from derive.cbs_daily_gl_bal_trn where 
+	  bkg_date = '2025-11-27' and gl_code = '100300465'
 	  ```
 -
 -
