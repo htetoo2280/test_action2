@@ -9,7 +9,7 @@
   where is_current = 1 group by branch_code order by branch_code
   ```
 -
-	- cbs.actb_bal_history --- > base.cbs_acc_bal_trn
+	- cbs.actb_accbal_history--- > base.cbs_acc_bal_trn
 	- this is correct for len(ac_no) = 17  (only diff 3000 ks in 999 branch)
 -
 - ## cbs.actb_history (transaction table)
