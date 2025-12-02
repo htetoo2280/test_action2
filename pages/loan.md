@@ -13,4 +13,6 @@
 	  and   source_code in ('LOANDATA','HPDATA','ODDATA')
 	  ```
 -
-- ## loan
+- ## loan outstanding from actb_history
+	- ```sql
+	  ```
