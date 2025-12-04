@@ -1,4 +1,6 @@
 - ```
+  Go to cloud watch> log group > search “ecs/dbt” > click pay-publish group > 
+  check latest logs > find which model failed or all haven’t started
   ```
 -
 -
