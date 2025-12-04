@@ -26,6 +26,8 @@
 - TODO backups.summed_closing
 - TODO backups.cbs_monthly_acc_bal_trn_feb_2025
 - DONE report.ho_monthly_testing
+- TODO backups.stg_cbs_loan_user
+- TODO backups.cbs_loan_user
 -
 -
 -
