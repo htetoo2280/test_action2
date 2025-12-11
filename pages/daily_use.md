@@ -7,6 +7,7 @@
 - [[column_schema]]
 - [[table_to_drop]]
 - [[redshift_table_lock]]
+- [[deleting_branch]]
 -
 -
 -
