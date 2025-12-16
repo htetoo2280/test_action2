@@ -20,5 +20,7 @@ title:: master & transaction & balance
 - ## cbs.sttm_cust_account
 	- is use for live balance master + customer
 -
-- ## cbs_vw_daily_acc_bal_trn
-	- base.cbs_acc_bal_trn  + calander
+- ## cbs_vw_daily_acc_bal_trn (break scd - 2)
+	- base.cbs_acc_bal_trn  + calendar
+-
+-
