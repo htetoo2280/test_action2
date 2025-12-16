@@ -1,3 +1,11 @@
 - ~~CBS.STTM_BRANCH~~
 - ~~but it is not used because this is raw~~
 -
+- dimension.cbs_branch (used)
+	- branch_status (open , closed)
+	- head_count
+	- territory (Branch Operations) eg. Yangon,Naypyitaw and Lower Myanmar
+	- ri_name (Regional In-Charge Name) eg. Daw Khet Khet Nwe
+	- head_of_ri_name (Head of Regional In-Charge) eg. U Tin Win
+	- tc_branch_status (Operational status of the branch to be considered for TC) eg. Open, Closed
+	-
