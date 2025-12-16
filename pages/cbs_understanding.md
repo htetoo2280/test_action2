@@ -6,6 +6,7 @@
 - [[Account Class or Product Master]]
 - [[GL_Mapping]]
 - [[para_table]]
+- [[tran_code (cbs.sttm_trn_code)]]
 - [[branch]]
 -
 -
