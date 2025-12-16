@@ -15,3 +15,5 @@ title:: Transaction and Balance
 	- cbs.actb_accbal_history--- > base.cbs_acc_bal_trn
 	- this is correct for len(ac_no) = 17  (only diff 3000 ks in 999 branch)
 -
+- ![image.png](../assets/image_1763522433952_0.png)
+-

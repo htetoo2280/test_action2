@@ -7,12 +7,7 @@
   
   adapter.srv_tb_ad_central_txn_log (function code to define product)
 -
-- ## detail
 -
--
-- ![image.png](../assets/image_1763522433952_0.png)
--
-- ##
 - product master
 - to join for product category
 - ![image.png](../assets/image_1763523198135_0.png)
