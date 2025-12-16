@@ -5,6 +5,7 @@
 - [[product_category]]
 - [[Account Class or Product Master]]
 - [[GL_Mapping]]
+- [[para_table]]
 - [[branch]]
 -
 -
