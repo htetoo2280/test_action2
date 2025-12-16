@@ -28,3 +28,11 @@
 	  ```
 -
 -
+- ```sql
+  select asset_earliest_ovd,* from cbs.cntb_asset_extract_history where 
+  asset_reference_no = '1962SL1222870001' order by extraction_dt_stamp
+  
+  select top 10 * from cbs.cltb_account_master where account_number = '1962SL1222870001'
+  
+  select top 10 * from cbs.actb_history where related_account = '1962SL1222870001'
+  ```
