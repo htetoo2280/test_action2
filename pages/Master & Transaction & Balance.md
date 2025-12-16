@@ -23,4 +23,6 @@ title:: master & transaction & balance
 - ## cbs_vw_daily_acc_bal_trn (break scd - 2)
 	- base.cbs_acc_bal_trn  + calendar
 -
+- ![image.png](../assets/image_1765858023751_0.png)
+-
 -
