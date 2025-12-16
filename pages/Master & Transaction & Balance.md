@@ -7,7 +7,7 @@ title:: master & transaction & balance
 	  order by ac_branch
 	  ```
 -
-- ## base.cbs_acc_bal_trn (Master history)
+- ## base.cbs_acc_bal_trn (Master s)(casa bal data model)
 	- ```sql
 	  select branch_code,sum(lcy_bal) as lcy_bal from base.cbs_acc_bal_trn 
 	  where is_current = 1 group by branch_code order by branch_code
