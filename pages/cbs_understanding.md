@@ -1,5 +1,6 @@
 - [[master tables]]
 - [[CIF]]
+-
 - [[Transaction and Balance]]
 - [[product_category]]
 -
@@ -12,7 +13,8 @@
 -
 - product master
 - to join for product category
-- ![image.png](../assets/image_1763523198135_0.png)
+-
+-
 -
 -
 - [[general_cbs_layer]]
