@@ -18,4 +18,5 @@ title:: master & transaction & balance
 - ![image.png](../assets/image_1763522433952_0.png)
 -
 - ## cbs.sttm_cust_account
-	- is use for
+	- is use for live balance master + customer
+-
