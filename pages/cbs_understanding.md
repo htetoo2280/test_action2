@@ -7,6 +7,7 @@
 - [[GL_Mapping]]
 - [[para_table]]
 - [[tran_code (cbs.sttm_trn_code)]]
+- [[joint]]
 - [[branch]]
 -
 -
