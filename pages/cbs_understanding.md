@@ -1,6 +1,6 @@
 - [[master tables]]
 - [[CIF]]
--
+- [[master_link]]
 - [[Transaction and Balance]]
 - [[product_category]]
 -
