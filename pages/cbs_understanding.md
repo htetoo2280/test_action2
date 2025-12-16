@@ -1,8 +1,6 @@
 - [[master tables]]
 -
 -
--
--
 - ## base.cbs_acc_bal_trn (Master history)
 - ```sql
   select branch_code,sum(lcy_bal) as lcy_bal from base.cbs_acc_bal_trn 
