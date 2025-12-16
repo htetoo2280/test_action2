@@ -7,7 +7,7 @@ title:: master & transaction & balance
 	  order by ac_branch
 	  ```
 -
-- ## base.cbs_acc_bal_trn (Master s)(casa bal data model)
+- ## base.cbs_acc_bal_trn (Master scd-2)(casa bal data model)
 	- ```sql
 	  select branch_code,sum(lcy_bal) as lcy_bal from base.cbs_acc_bal_trn 
 	  where is_current = 1 group by branch_code order by branch_code
@@ -17,3 +17,5 @@ title:: master & transaction & balance
 -
 - ![image.png](../assets/image_1763522433952_0.png)
 -
+- ## cbs.sttm_cust_account
+	- is use for
