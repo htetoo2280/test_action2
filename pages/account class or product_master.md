@@ -1,4 +1,5 @@
 - Account Class or Product Master
+  title:: account class or product_master
 	- ~~CBS.STTM_ACCOUNT_CLASS~~
 		- ~~account_class (code)~~
 		- ~~description (product name)~~

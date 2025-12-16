@@ -3,7 +3,7 @@
 - [[Master & Transaction & Balance]]
 - [[master_link]]
 - [[product_category]]
-- [[Account Class or Product Master]]
+- [[account class or product_master]]
 - [[GL_Mapping]]
 - [[para_table]]
 - [[tran_code (cbs.sttm_trn_code)]]
