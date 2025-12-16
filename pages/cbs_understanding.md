@@ -1,6 +1,6 @@
 - [[master tables]]
 - [[CIF]]
-- [[Master & Transaction & Balance]]
+- [[master & transaction & balance]]
 - [[master_link]]
 - [[product_category]]
 - [[account class or product_master]]
@@ -17,10 +17,6 @@
   as of aprial 2023
   
   adapter.srv_tb_ad_central_txn_log (function code to define product)
--
--
-- product master
-- to join for product category
 -
 -
 -

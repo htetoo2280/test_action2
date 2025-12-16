@@ -1,5 +1,5 @@
 ## cbs.actb_history (transaction table)
-title:: Master & Transaction & Balance
+title:: master & transaction & balance
 	- if want to take gl , use cbs.actb_history (take balance from transaction)
 	- ```sql
 	  select ac_branch,sum(case when drcr_ind = 'C' then lcy_amount else lcy_amount* -1 end) as lcy_bal from cbs.actb_history 
