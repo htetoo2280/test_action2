@@ -2,36 +2,7 @@
 - [[CIF]]
 - [[Transaction and Balance]]
 -
--
--
-- ## base.cbs_acc_bal_trn (Master history)
-- ```sql
-  select branch_code,sum(lcy_bal) as lcy_bal from base.cbs_acc_bal_trn 
-  where is_current = 1 group by branch_code order by branch_code
-  ```
--
-	- cbs.actb_accbal_history--- > base.cbs_acc_bal_trn
-	- this is correct for len(ac_no) = 17  (only diff 3000 ks in 999 branch)
--
-- ## cbs.actb_history (transaction table)
-	- if want to take gl , use cbs.actb_history
-	- ```sql
-	  select ac_branch,sum(case when drcr_ind = 'C' then lcy_amount else lcy_amount* -1 end) as lcy_bal from cbs.actb_history 
-	  where  len(ac_no) = 17 group by ac_branch 
-	  order by ac_branch
-	  ```
--
--
--
--
-- tran
-  accounting entries = trn table (cbs.actb_history)
-  actb_daily_log (daily)
-  unsuccess ?
-  
-  master
-  actb_accbal_history (balance)
-  ---------------------------
+- ---------------------------
   as of aprial 2023
   
   adapter.srv_tb_ad_central_txn_log (function code to define product)
