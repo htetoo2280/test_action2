@@ -28,7 +28,8 @@
 - DONE report.ho_monthly_testing
 - TODO backups.stg_cbs_loan_user
 - TODO backups.cbs_loan_user
-- TODO
+- TODO backups.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
+-
 -
 -
 -
