@@ -2,5 +2,5 @@
 - ## cbs.cltb_account_master
 	- contain loan informations , customerid and limit
 -
--
+- ## cbs.cltb_account_components
 -
