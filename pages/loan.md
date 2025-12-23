@@ -20,4 +20,6 @@
 	- effective_date
 	- ude_id (COMMIT_FEE_RATE , INTEREST_RATE)
 	- ude_value
+	- rate_code (is not used in this table)
+-
 -
