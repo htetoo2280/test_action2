@@ -3,7 +3,11 @@
 	- liab_no (Liability Number - same with customerid)
 - ## cbs.getm_collat (collateral)
 	- id (collateral id)
+	- liab_id ( key to join )
+	- collateral_code ()
+	- collateral_description (address)
 	-
+-
 -
 -
 	-
