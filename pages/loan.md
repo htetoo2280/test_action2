@@ -3,5 +3,6 @@
 	- contain loan informations , customerid and limit
 -
 - ## cbs.cltb_account_components
-	-
+	- cbs.cltb_account_components
+		-
 -
