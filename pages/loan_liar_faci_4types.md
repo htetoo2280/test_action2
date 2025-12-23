@@ -15,5 +15,10 @@
 - ## cbs.getm_facility (History Table : elcm.geth_facility)
 	- id
 	- liab_id (key to join with liability)
-	- line_seri
+	- line_code
+	- line_serial
+	- line_start_date
+	- line_expiry_date
+	- limit_amount
+	-
 	-
