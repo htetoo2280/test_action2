@@ -20,5 +20,7 @@
 	- line_start_date
 	- line_expiry_date
 	- limit_amount
-	-
+	- description (daw xxx)
+	- approved_amt
+	- collateral_contribution
 	-
