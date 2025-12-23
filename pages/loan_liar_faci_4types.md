@@ -32,3 +32,7 @@
 	- facility_currency
 	- facility_amount_pool_ccy ( acy )
 	-
+- ## cbs.getm_pool_coll_linkages(pool_id(li + collateral)
+	-
+	-
+	-
