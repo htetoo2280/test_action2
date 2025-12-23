@@ -4,5 +4,9 @@
 -
 - ## cbs.cltb_account_components
 	- cbs.cltb_account_components
-		-
+		- component_name
+		- component_type
+		- dr_prod_ac 
+		   | cr_prod_ac | 
+		  |
 -
