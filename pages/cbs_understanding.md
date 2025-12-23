@@ -1,4 +1,3 @@
-- [[master tables]]
 - [[CIF]]
 - [[master & transaction & balance]]
 - [[master_link]]
