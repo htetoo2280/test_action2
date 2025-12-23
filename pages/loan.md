@@ -8,4 +8,5 @@
 		- component_type
 		- dr_prod_ac
 		- cr_prod_ac
--
+		-
+- ## **cbs.cltb_account_schedules**
