@@ -40,8 +40,9 @@
 		- collateral_id
 		- collateral_currency
 		- collateral_amount
-		- linked_amount (limit cont)
+		- linked_amount (limit contribution from collateral)
 		- linked_amount_pool_ccy
-		-
+-
+-
 	-
 	-
