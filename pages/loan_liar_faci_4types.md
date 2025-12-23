@@ -1,6 +1,7 @@
 ## cbs.getm_liab (liability)
 	- id ( Liability ID )
 	- liab_no (Liability Number - same with customerid)
+	-
 - ## cbs.getm_collat (collateral)
 	- id (collateral id)
 	- liab_id ( key to join )
@@ -11,9 +12,5 @@
 	- start_date
 	- end_date
 -
-	-
-	-
--
--
--
+- ## cbs.getm_facility (History Table : elcm.geth_facility)
 	-
