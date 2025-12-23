@@ -36,6 +36,10 @@
 	- this is main on collateral
 		- id (pool link id)
 		- pool_id
-		-
+		- liab_id
+		- collateral_id
+		- collateral_currency
+		- collateral_amount
+		- linked_amount
 	-
 	-
