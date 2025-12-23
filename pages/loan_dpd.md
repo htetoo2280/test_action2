@@ -1,4 +1,5 @@
 - For loan dimension.cbs_loan_user is the main table.
+  title:: loan_dpd
 - daily loan dpd will support for dpd
 -
 - ## dpd days taking

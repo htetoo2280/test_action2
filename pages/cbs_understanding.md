@@ -8,6 +8,7 @@
 - [[tran_code (cbs.sttm_trn_code)]]
 - [[joint]]
 - [[branch]]
+- [[loan]]
 -
 -
 - ---------------------------
@@ -21,6 +22,6 @@
 - [[general_cbs_layer]]
 - [[gl_master]]
 - [[trial]]
-- [[loan]]
+- [[loan_dpd]]
 -
 -
