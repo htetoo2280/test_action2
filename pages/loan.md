@@ -17,4 +17,7 @@
 -
 - ## cbs.cltb_account_ude_values
 	- account_number
-	-
+	- effective_date
+	- ude_id (COMMIT_FEE_RATE , INTEREST_RATE)
+	- ude_value
+-
