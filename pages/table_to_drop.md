@@ -24,10 +24,10 @@
   :END:
 - DONE backups.ho_cbs_mmqr_key_account_merchant
 - DONE backups.summed_closing
-- TODO backups.cbs_monthly_acc_bal_trn_feb_2025
+- DONE backups.cbs_monthly_acc_bal_trn_feb_2025
 - DONE report.ho_monthly_testing
-- TODO backups.stg_cbs_loan_user
-- TODO backups.cbs_loan_user
+- DONE backups.stg_cbs_loan_user
+- DONE backups.cbs_loan_user
 - TODO backups.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
 - TODO lookup.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
 - TODO lookup.ho_cbs_cbmnet_daily_outgoing_chg_23_dec
