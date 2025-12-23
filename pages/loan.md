@@ -1,0 +1,2 @@
+- cbs.cltb_account_master** (view) , Base Table : cbs.cltb_account_apps_master
+	-
