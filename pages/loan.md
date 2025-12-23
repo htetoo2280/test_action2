@@ -14,3 +14,7 @@
 	- schedule_due_date
 	- amount_due
 	- amount_settled
+-
+- ## cbs.cltb_account_ude_values
+	- account_number
+	-
