@@ -22,15 +22,16 @@
   CLOCK: [2025-11-08 Sat 16:09:39]--[2025-11-08 Sat 16:09:40] =>  00:00:01
   CLOCK: [2025-11-08 Sat 16:09:42]--[2025-11-08 Sat 16:09:47] =>  00:00:05
   :END:
-- TODO backups.ho_cbs_mmqr_key_account_merchant
-- TODO backups.summed_closing
+- DONE backups.ho_cbs_mmqr_key_account_merchant
+- DONE backups.summed_closing
 - TODO backups.cbs_monthly_acc_bal_trn_feb_2025
 - DONE report.ho_monthly_testing
 - TODO backups.stg_cbs_loan_user
 - TODO backups.cbs_loan_user
 - TODO backups.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
 - TODO lookup.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
-- TODO
+- TODO lookup.ho_cbs_cbmnet_daily_outgoing_chg_23_dec
+-
 -
 -
 -
