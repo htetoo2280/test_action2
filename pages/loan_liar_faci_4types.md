@@ -4,8 +4,14 @@
 - ## cbs.getm_collat (collateral)
 	- id (collateral id)
 	- liab_id ( key to join )
-	- collateral_code ()
+	- collateral_code (collateral code)
 	- collateral_description (address)
+	- collateral_value
+	- limit_contribution (over on haircut)
+	- start_date
+	- end_date
+-
+	-
 	-
 -
 -
