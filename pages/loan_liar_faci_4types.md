@@ -24,9 +24,11 @@
 	- approved_amt
 	- collateral_contribution
 -
-- ## cbs.getb_pool_link (liability + facility)
+- ## cbs.getb_pool_link (liability + facility) main on facility
 	- pool_id
 	- liab_id
 	- facility_id
 	- facility_amount
-	- **facility_currency**
+	- facility_currency
+	- facility_amount_pool_ccy ( acy )
+	-
