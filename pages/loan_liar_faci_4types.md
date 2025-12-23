@@ -23,4 +23,6 @@
 	- description (daw xxx)
 	- approved_amt
 	- collateral_contribution
+-
+- ## cbs.getb_pool_link ()
 	-
