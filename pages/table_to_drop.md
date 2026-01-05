@@ -32,6 +32,8 @@
 - TODO lookup.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
 - TODO lookup.ho_cbs_cbmnet_daily_outgoing_chg_23_dec
 - TODO lookup.ho_sfcubs_sttm_cust_account_linkages
+- TODO backups.ho_payroll_daily_acc_trn_details_05_Jan
+-
 -
 -
 -
