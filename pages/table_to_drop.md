@@ -33,6 +33,7 @@
 - TODO lookup.ho_cbs_cbmnet_daily_outgoing_chg_23_dec
 - TODO lookup.ho_sfcubs_sttm_cust_account_linkages
 - TODO backups.ho_payroll_daily_acc_trn_details_05_Jan
+- TODO backups.ho_stg_payroll_trn_details_smartpay_05_jan
 -
 -
 -
