@@ -16,5 +16,13 @@
 		- Credit : FCY Asset Account
 - (ဘဏ်စနစ်အလိုက် GL structure ကွာနိုင်ပါတယ်)
 -
+- ## Banking System အတွင်းမှာ Revaluation ကို ဘယ်အချိန်လုပ်လဲ?
+	- **Daily EOD**
+	- **Month End / Year End**
+	- **Before Financial Reporting**
+	- **CBM Reporting**
+-
+-
+-
 -
 -
