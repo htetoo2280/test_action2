@@ -20,41 +20,29 @@
 - ### 1️⃣ Letter of Credit (LC)
 - Bank က customer အစား **ငွေပေးမယ်လို့ ကတိပေးထား**
 - Payment မဖြစ်သေးတော့
-  
   ➡️ **Off-Balance Sheet**
-  
   LC draw ဖြစ်သွားရင်
-  
   ➡️ **Loan / Liability ဖြစ်ပြီး On-Balance Sheet ဝင်**
-  
   ---
 - ### 2️⃣ Bank Guarantee (BG)
 - Third party ကို guarantee ပေးထား
 - Default မဖြစ်သေး
-  
   ➡️ **Off-Balance Sheet**
-  
   Claim ဖြစ်ရင်
-  
   ➡️ **Liability ဖြစ်**
-  
   ---
 - ### 3️⃣ Undrawn Loan Commitment
 - Approved loan amount
 - Customer မထုတ်သေး
-  
   ➡️ **Off-Balance Sheet**
-  
   Drawdown ဖြစ်မှ
-  
   ➡️ **Loan Asset (On-Balance)**
-  
   ---
 - ### 4️⃣ FX Forward / Derivatives
 - Contract sign လုပ်ထား
 - Settlement မရောက်သေး
   
-  ➡️ **Off-Balance Sheet **
+  ➡️ **Off-Balance Sheet summary flow**
 -
 - ```
   LC Opened
