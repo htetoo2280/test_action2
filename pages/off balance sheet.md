@@ -54,6 +54,19 @@
 - Contract sign လုပ်ထား
 - Settlement မရောက်သေး
   
-  ➡️ **Off-Balance Sheet**
+  ➡️ **Off-Balance Sheet **
+-
+- ```
+  LC Opened
+   → OBS +300,000
+  
+  Goods not received
+   → No cash, no GL
+  
+  LC Paid
+   → OBS -300,000 (OBS = 0)
+   → Loan / Deposit / Payable created
+  ```
+-
 -
 -
