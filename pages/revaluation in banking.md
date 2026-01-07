@@ -59,7 +59,6 @@
   ```
   
   ➡️ **Unrealized Exchange Gain**
-  
   ---
 - ## Step 3️⃣ Revaluation Transaction (CBS Level)
   
@@ -84,15 +83,12 @@
   | 701020 | FX Revaluation Gain (P&L) | – | 500,000 |
   
   👉 **Balance Sheet Account** တန်ဖိုးတက်
-  
   👉 **P&L မှာ Gain ထွက်**
-  
   ---
 - ## Step 5️⃣ GL Balance After Revaluation
   
   | GL Code | GL Name | Balance (MMK) |
   | ---- | ---- | ---- |
   | 101010 | FCY Saving Control | 20,500,000 |
--
 -
 -
