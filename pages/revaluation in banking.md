@@ -92,5 +92,5 @@
   | 101010 | FCY Saving Control | 20,500,000 |
 -
 - summary
-	- revaluation process ကိုနားလည်ဖို့ အတွက် snapshort
+	- revaluation process ကိုနားလည်ဖို့ အတွက် snapshort ယူတာရယ် gain and lost ကို p&l
 -
