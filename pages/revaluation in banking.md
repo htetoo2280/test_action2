@@ -100,4 +100,4 @@
 	- အဲအချိန်မှာ snapshot ယူပြီး gain balance ကို store လုပ်ပါတယ်
 	- ပြီးတာနဲ့ အဲ transaction ကို reversal လုပ်ပါတယ်
 	- ပြီးရင် FCY Control account mmk ကို market rate နဲ့ပြန်သင့်ခဲ့တာက နောက်ဆုံး အဆင့်ပါ
-	- မှတ်ချက် - တစ်ရက် ပြီး
+	- မှတ်ချက် - တစ်ရက် ပြီးတစ်ရက် အကုန်လုံးကို ပြန်ပြန် revaluation လုပ်တာကြောင့်မို့ reconciliation မှာ
