@@ -92,5 +92,6 @@
   | 101010 | FCY Saving Control | 20,500,000 |
 -
 - summary
-	- revaluation process ကိုနားလည်ဖို့ အတွက် snapshort ယူတာရယ် gain and lost ကို p&l ထဲ တန်းပေါင်းထည့် သင့် မထည့် သင့် နဲ့ gain and lost ကို reversal လုပ်မလုပ် ဆို တာတွေကို နား
+	- revaluation process ကိုနားလည်ဖို့ အတွက် snapshort ယူတာရယ် gain and lost ကို p&l ထဲ တန်းပေါင်းထည့် သင့် မထည့် သင့် နဲ့ gain and lost ကို reversal လုပ်မလုပ် ဆို တာတွေကို သိထားရမှာပါ
+	- finance ရဲ့ accounting flow ချထားတဲ့ အပေါ်မူတည်ပြီး တစ်ခုနဲ့ တစ်ခု
 -
