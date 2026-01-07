@@ -56,5 +56,25 @@
    → Loan / Deposit / Payable created
   ```
 -
+- ## 2️⃣ OBS က Accounting မဟုတ်ဘူး
+  
+  Off-Balance Sheet =
+- **Memo / Risk tracking**
+- **No Asset, No Liability yet**
+- **No impact on Balance Sheet / P&L**
+  
+  ဒါကြောင့်
+  
+  👉 **GL accounting double entry မလိုပါဘူး**
+- ----
+- ## 3️⃣ ဒါပေမယ့် “Double” လုံးဝ မရှိဘူးလား?
+  👉 **Accounting double entry မရှိ**
+  👉 **OBS pair (logical) entry ရှိတတ်ပါတယ်**
+- ### Typical OBS Structure (System Level)
+  
+  | Side | Amount |
+  | ---- | ---- | ---- |
+  | OBS Asset (LC Outstanding) | +300,000 |
+  | OBS Contra (Bank Commitment) | -300,000 |
 -
 -
