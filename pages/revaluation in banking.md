@@ -10,9 +10,11 @@
 - ## Accounting Entry (Conceptually)
 	- ### Gain ဖြစ်ရင်
 		- Debit : FCY Asset Account
-- Credit : Revaluation Gain (P&L)
-- ### Loss ဖြစ်ရင်
-- Debit : Revaluation Loss (P&L)
-- Credit : FCY Asset Account
-  
-  (ဘဏ်စနစ်အလိုက် GL structure ကွာနိုင်ပါတယ်)
+		- Credit : Revaluation Gain (P&L)
+	- ### Loss ဖြစ်ရင်
+		- Debit : Revaluation Loss (P&L)
+		- Credit : FCY Asset Account
+- (ဘဏ်စနစ်အလိုက် GL structure ကွာနိုင်ပါတယ်)
+-
+-
+-
