@@ -117,4 +117,11 @@
   ဒီအချိန်မှ
   
   ✔️ **Real accounting double entry** စပါပြီ
--
+- --
+- ဒီ concept ကိုနားလည်သွားရင်
+- LC
+- BG
+- Undrawn loan
+- FX forward
+  
+  အားလုံးကို **OBS logic တစ်မျိုးတည်းနဲ့** နားလည်နိုင်ပါပြီ 👍
