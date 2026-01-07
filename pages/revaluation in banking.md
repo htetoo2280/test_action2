@@ -95,6 +95,6 @@
 	- revaluation process ကိုနားလည်ဖို့ အတွက် snapshort ယူတာရယ် gain and lost ကို p&l ထဲ တန်းပေါင်းထည့် သင့် မထည့် သင့် နဲ့ gain and lost ကို reversal လုပ်မလုပ် ဆို တာတွေကို သိထားရမှာပါ
 	- finance ရဲ့ accounting flow ချထားတဲ့ အပေါ်မူတည်ပြီး org တစ်ခုနဲ့ တစ်ခု မတူနိုင်ပါဘူး
 -
-- အသုံးများတဲ့ ပုံစံတစ်ခုကတော့
-	- EOD step ထဲမှာ အရင်ဆုံး FCY Control account ထဲက ထုတ်ပြီး
+- အသုံးများတဲ့ ပုံစံတစ်ခုကတော့ (for gain)
+	- EOD step ထဲမှာ အရင်ဆုံး FCY Control account ထဲက ထုတ်ပြီး gain ထဲ
 -
