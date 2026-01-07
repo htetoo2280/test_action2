@@ -1,9 +1,58 @@
-- off balance sheet ဆို တာဘာလဲ
-  ရှင်းမပြနိုင်တဲ့ ငွေတွေကို ခန သွားထည့်ထားတာမျိုးလား
-- ------
-- 👉 **Off-Balance Sheet (OBS)** ဆိုတာ
-- 👉 **“ရှင်းမပြနိုင်တဲ့ ငွေတွေကို ခဏသွားထားတဲ့ နေရာ” မဟုတ်ပါဘူး**
-- ဒါပေမယ့်
-- 👉 **ဘဏ်ရဲ့ Balance Sheet ထဲမှာ တန်းမပါသေးတဲ့ Risk / Obligation / Commitment တွေကို မှတ်ထားတဲ့နေရာ** ဖြစ်ပါတယ်။
+## 🔹 Off-Balance Sheet ဆိုတာဘာလဲ?
+
+**Off-Balance Sheet items** တွေက
+- Asset လည်းမဟုတ်
+- Liability လည်းမဟုတ် (အခုအချိန်မှာ)
+  
+  ဒါပေမယ့်
+  
+  👉 **အနာဂတ်မှာ Asset / Liability ဖြစ်လာနိုင်တဲ့ အရာတွေ** ဖြစ်ပါတယ်။
 -
+-
+- Off-Balance Sheet =
+- **Accounting classification**
+- **Risk tracking**
+- **Regulatory reporting (CBM)**
+  
+  ဖြစ်ပါတယ်။
+-
+- ## 🔍 Common Off-Balance Sheet Examples (ဘဏ်တွေမှာ)
+- ### 1️⃣ Letter of Credit (LC)
+- Bank က customer အစား **ငွေပေးမယ်လို့ ကတိပေးထား**
+- Payment မဖြစ်သေးတော့
+  
+  ➡️ **Off-Balance Sheet**
+  
+  LC draw ဖြစ်သွားရင်
+  
+  ➡️ **Loan / Liability ဖြစ်ပြီး On-Balance Sheet ဝင်**
+  
+  ---
+- ### 2️⃣ Bank Guarantee (BG)
+- Third party ကို guarantee ပေးထား
+- Default မဖြစ်သေး
+  
+  ➡️ **Off-Balance Sheet**
+  
+  Claim ဖြစ်ရင်
+  
+  ➡️ **Liability ဖြစ်**
+  
+  ---
+- ### 3️⃣ Undrawn Loan Commitment
+- Approved loan amount
+- Customer မထုတ်သေး
+  
+  ➡️ **Off-Balance Sheet**
+  
+  Drawdown ဖြစ်မှ
+  
+  ➡️ **Loan Asset (On-Balance)**
+  
+  ---
+- ### 4️⃣ FX Forward / Derivatives
+- Contract sign လုပ်ထား
+- Settlement မရောက်သေး
+  
+  ➡️ **Off-Balance Sheet**
 -
