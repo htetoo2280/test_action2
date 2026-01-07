@@ -66,6 +66,8 @@
   ဒါကြောင့်
   
   👉 **GL accounting double entry မလိုပါဘူး**
+- ဆိုတာက
+- 👉 **Single-sided “exposure” record** ပါ
 - ----
 - ## 3️⃣ ဒါပေမယ့် “Double” လုံးဝ မရှိဘူးလား?
   👉 **Accounting double entry မရှိ**
@@ -76,5 +78,43 @@
   | ---- | ---- | ---- |
   | OBS Asset (LC Outstanding) | +300,000 |
   | OBS Contra (Bank Commitment) | -300,000 |
--
+- ## 4️⃣ နေ့စဉ် Report မှာ ဘာကြည့်လဲ?
+  
+  CBM / Management Report မှာ
+  
+  👉 **Outstanding LC Amount** ကိုပဲ report လုပ်ပါတယ်
+  
+  ```
+  LC Outstanding = 300,000
+  ```
+  
+  Contra side ကို report မလုပ်ပါဘူး
+  
+  ---
+- ## 5️⃣ OBS Reversal တုန်းကရော?
+  
+  LC Paid ဖြစ်တဲ့အချိန်
+  
+  ```
+  OBS -300,000
+  ```
+  
+  ဒါလည်း
+- Memo reversal
+- GL accounting မဟုတ်
+  
+  ---
+- ## 6️⃣ GL Double Entry ဘယ်အချိန်မှ စလာလဲ?
+  
+  👉 **OBS → On-Balance Sheet ပြောင်းတဲ့အချိန်**
+- ### LC Paid
+  
+  | GL | Debit | Credit |
+  | ---- | ---- | ---- |
+  | LC Loan / Customer Receivable | 300,000 | – |
+  | Cash / Nostro | – | 300,000 |
+  
+  ဒီအချိန်မှ
+  
+  ✔️ **Real accounting double entry** စပါပြီ
 -
