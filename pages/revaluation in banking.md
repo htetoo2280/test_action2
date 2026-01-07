@@ -96,5 +96,6 @@
 	- finance ရဲ့ accounting flow ချထားတဲ့ အပေါ်မူတည်ပြီး org တစ်ခုနဲ့ တစ်ခု မတူနိုင်ပါဘူး
 -
 - အသုံးများတဲ့ ပုံစံတစ်ခုကတော့ (for gain)
-	- EOD step ထဲမှာ အရင်ဆုံး FCY Control account ထဲက ထုတ်ပြီး gain ထဲ
+	- EOD step ထဲမှာ အရင်ဆုံး FCY Control account ထဲက ထုတ်ပြီး gain ထဲထည့်လိုက်ပါတယ်
+	- အဲအချိန်မှာ snapshot ယူပြီး gain balance ကို
 -
