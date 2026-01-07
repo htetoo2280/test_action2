@@ -97,5 +97,7 @@
 -
 - အသုံးများတဲ့ ပုံစံတစ်ခုကတော့ (for gain)
 	- EOD step ထဲမှာ အရင်ဆုံး FCY Control account ထဲက ထုတ်ပြီး gain ထဲထည့်လိုက်ပါတယ်
-	- အဲအချိန်မှာ snapshot ယူပြီး gain balance ကို
+	- အဲအချိန်မှာ snapshot ယူပြီး gain balance ကို store လုပ်ပါတယ်
+	- ပြီးတာနဲ့ အဲ transaction ကို reversal လုပ်ပါတယ်
+	-
 -
