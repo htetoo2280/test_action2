@@ -102,4 +102,6 @@
 	- ပြီးရင် FCY Control account mmk ကို market rate နဲ့ပြန်သင့်ခဲ့တာက နောက်ဆုံး အဆင့်ပါ
 	- မှတ်ချက် - တစ်ရက် ပြီးတစ်ရက် အကုန်လုံးကို ပြန်ပြန် revaluation လုပ်တာကြောင့်မို့ reconciliation မှာအထောက်ကူဖြစ်စေပါတယ်
 -
--
+- remark
+	- base rate ဟာ မနေ့က rate နဲ့ မတူပါဘူး
+	- base rate ဆိုတာ GL ကို စတင်ကတည်းက
