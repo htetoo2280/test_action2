@@ -97,7 +97,9 @@
 -
 - အသုံးများတဲ့ ပုံစံတစ်ခုကတော့ (for gain)
 	- EOD step ထဲမှာ အရင်ဆုံး FCY Control account ထဲက ထုတ်ပြီး gain ထဲထည့်လိုက်ပါတယ်
-	- အဲအချိန်မှာ snapshot ယူပြီး gain balance ကို store လုပ်ပါတယ်
+	- အဲအချိန်မှာ snapshot ယူပြီး gain balance (on base rate) ကို store လုပ်ပါတယ်
 	- ပြီးတာနဲ့ အဲ transaction ကို reversal လုပ်ပါတယ်
 	- ပြီးရင် FCY Control account mmk ကို market rate နဲ့ပြန်သင့်ခဲ့တာက နောက်ဆုံး အဆင့်ပါ
 	- မှတ်ချက် - တစ်ရက် ပြီးတစ်ရက် အကုန်လုံးကို ပြန်ပြန် revaluation လုပ်တာကြောင့်မို့ reconciliation မှာအထောက်ကူဖြစ်စေပါတယ်
+-
+-
