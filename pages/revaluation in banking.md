@@ -127,4 +127,12 @@
 	  New GL နဲ့ base rate 4,000 သတ်မှတ်”
 -
 - solution -
--
+- ## ဘဏ်တွေ တကယ်လုပ်ကြတဲ့ Safe & Legal Option
+- ### 🔹 Option 1:  **Realized vs Unrealized FX Gain ခွဲထားခြင်း**
+- Revaluation gain = **Unrealized**
+- Tax computation မှာ
+  👉 unrealized gain **exclude** / defer
+  📌 Accounting profit ≠ taxable profit
+  📌 အခွန် calculation adjustment schedule သုံး
+  
+  ➡️ **အများဆုံးအသုံးများတဲ့ solution**
