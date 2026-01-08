@@ -148,25 +148,16 @@
   
   ဒီ option ကို လုပ်ချင်ရင်—
   ✔️ USD ကို **တကယ်ရောင်း**
-  
   ✔️ MMK cash inflow real
-  
   ✔️ FX position close
-  
   ✔️ Market risk zero
-  
   ပြီးမှ—
-  
   ✔️ Market rate နဲ့ USD **တကယ်ပြန်ဝယ်**
-  
   ✔️ New GL recognition
-  
   ✔️ New base rate = 4,000
-  
   📌 ဒီလိုလုပ်ရင် ✔️ legitimate
-  
   📌 Accounting reset allowed
-  
   📌 Tax authority ကလည်း accept
-  
   💡 Key = **economic substance must change**
+-
+-
