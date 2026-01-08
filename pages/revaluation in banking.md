@@ -117,17 +117,14 @@
 	- accounting trick အနေနဲ့ လုပ်ရင် အန္တရာယ်အရမ်းကြီးပါတယ်**
 	- ဒါပေမယ့် ❗ **ဘဏ်တွေ တကယ်လုပ်ကြတဲ့ “legal & controlled” version တစ်ခုတော့ ရှိပါတယ်**
 -
-- # းစိတ်ထဲရှိတဲ့ Idea ကို တိတိကျကျ ပြန်ရေးရရင်
-- Base rate = 800
-- Market rate = 4,000
-- Unrealized FX gain ကြီး → Accounting profit များ
-- Tax risk
-  
-  👉 Idea:
-  
-  > 
-  
-  “USD အကုန်ရောင်း → MMK realize → ပြန် USD ဝယ်
-  
-  New GL နဲ့ base rate 4,000 သတ်မှတ်”
+- ## စိတ်ထဲရှိတဲ့ Idea ကို တိတိကျကျ ပြန်ရေးရရင်
+	- Base rate = 800
+	- Market rate = 4,000
+	- Unrealized FX gain ကြီး → Accounting profit များ
+	- Tax risk
+	  👉 Idea:
+	  “USD အကုန်ရောင်း → MMK realize → ပြန် USD ဝယ်
+	  New GL နဲ့ base rate 4,000 သတ်မှတ်”
+-
+- solution -
 -
