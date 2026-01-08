@@ -134,5 +134,39 @@
   👉 unrealized gain **exclude** / defer
   📌 Accounting profit ≠ taxable profit
   📌 အခွန် calculation adjustment schedule သုံး
-  
   ➡️ **အများဆုံးအသုံးများတဲ့ solution**
+-
+- ### 🔹 Option 2:  **FX Revaluation Reserve (Equity)**
+- FX gain ကို
+  👉 P&L မထိုးဘဲ
+  👉 Equity reserve ထဲ park
+  📌 Capital impact control
+  📌 Dividend / tax pressure လျော့
+  (Policy + auditor approval လို)
+-
+- ### 🔹 Option 3:  **Genuine FX Sale & Re-purchase (Allowed)**
+  
+  ဒီ option ကို လုပ်ချင်ရင်—
+  ✔️ USD ကို **တကယ်ရောင်း**
+  
+  ✔️ MMK cash inflow real
+  
+  ✔️ FX position close
+  
+  ✔️ Market risk zero
+  
+  ပြီးမှ—
+  
+  ✔️ Market rate နဲ့ USD **တကယ်ပြန်ဝယ်**
+  
+  ✔️ New GL recognition
+  
+  ✔️ New base rate = 4,000
+  
+  📌 ဒီလိုလုပ်ရင် ✔️ legitimate
+  
+  📌 Accounting reset allowed
+  
+  📌 Tax authority ကလည်း accept
+  
+  💡 Key = **economic substance must change**
