@@ -37,7 +37,8 @@
 - TODO lookup.ho_sfcubs_sttm_cust_account_linkages
 - TODO backups.ho_payroll_daily_acc_trn_details_05_Jan
 - TODO backups.ho_stg_payroll_trn_details_smartpay_05_jan
-- TODO backs.ho_kpay_org_trn
+- TODO backups.ho_kpay_org_trn
+- TODO backups.kbzpay_org_last_trn_bal_info_12_01_26
 -
 -
 -
