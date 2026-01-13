@@ -1,1 +1,3 @@
-- col arrangement
+- col arrangement different from dbt script
+	- do not use join for new column in last select query
+		- dbt will senior for
