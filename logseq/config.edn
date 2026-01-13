@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["task_dashboard"]
+ :favorites ["dbt" "task_dashboard"]
 
  ;; Set flashcards interval.
  ;; Expected value:
