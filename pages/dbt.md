@@ -1,5 +1,6 @@
 - [[dbt_looping_running]]
 - [[macro]]
-- [[dbt_looping_running]]
+- [[dbt_error_history]]
+-
 -
 - dbt is using for graphing data flow
