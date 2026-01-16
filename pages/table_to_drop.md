@@ -29,12 +29,12 @@
 - DONE backups.stg_cbs_loan_user
 - DONE backups.cbs_loan_user
 - DONE backups.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
-- TODO lookup.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
+- DONE lookup.cbs_cbmnet_clearing_daily_acc_trn_22_dec_morning
   :LOGBOOK:
   CLOCK: [2026-01-10 Sat 14:55:32]--[2026-01-10 Sat 14:55:33] =>  00:00:01
   :END:
-- TODO lookup.ho_cbs_cbmnet_daily_outgoing_chg_23_dec
-- TODO lookup.ho_sfcubs_sttm_cust_account_linkages
+- DONE lookup.ho_cbs_cbmnet_daily_outgoing_chg_23_dec
+- DONE lookup.ho_sfcubs_sttm_cust_account_linkages
 - TODO backups.ho_payroll_daily_acc_trn_details_05_Jan
 - TODO backups.ho_stg_payroll_trn_details_smartpay_05_jan
 - TODO backups.ho_kpay_org_trn
