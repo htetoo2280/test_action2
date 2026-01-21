@@ -8,6 +8,7 @@
 - [[table_to_drop]]
 - [[redshift_table_lock]]
 - [[deleting_branch]]
+- [[view_text]]
 -
 -
 -

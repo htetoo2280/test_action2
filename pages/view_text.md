@@ -1,0 +1,1 @@
+- select pg_get_viewdef('cbs.cbs_vw_trn_history', true);
