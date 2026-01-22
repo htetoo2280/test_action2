@@ -44,7 +44,9 @@
 - TODO backups.dbu_monthly_bal_13_jan_2026
 - TODO backups.ceo_daily_branch_bal_14_jan_2026
 - DONE lookup.cltb_account_schedules_20_jan_ho
-- TODO acoe_cbs.frame
+- DONE acoe_cbs.frame
+- TODO backups.zl_lc_ic_sme_ib_trn_19
+-
 -
 -
 -
