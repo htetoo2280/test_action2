@@ -3,7 +3,7 @@ name: Publish Logseq Web Portal
 on:
   push:
     branches:
-      - main  # Set to your primary branch name
+      - main
 
 permissions:
   contents: write
@@ -15,17 +15,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Build the Logseq Single Page Application (SPA)
-      - name: Build Logseq SPA
-        uses: logseq/publish-spa@v0.3.0
-        with:
-          version: '0.10.13'
+      - name: Logseq Publish
+        uses: pengx17/logseq-publish@main
+        # If you previously used the version parameter in publish-spa,
+        # it's not needed here. This action runs the desktop app inside a Docker container,
+        # and the version is controlled by the container image itself.
 
-      # Ensure GitHub Pages serves assets correctly
       - name: Add nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
 
-      # Deploy the build folder (www) to the gh-pages branch
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
