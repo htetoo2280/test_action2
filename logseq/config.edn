@@ -12,6 +12,8 @@
  ;; - :todo for TODO/DOING style
  :preferred-workflow :now
 
+ :default-home-page {:page "ssh"}
+
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
