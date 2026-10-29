@@ -1,3 +1,5 @@
-publish:: true
+public:: true
 
 summary for doc3
+
+aaa
