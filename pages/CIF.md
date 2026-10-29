@@ -1,4 +1,5 @@
-- pu
+public:: true
+
 - CBS.STTM_CUSTOMER (**customer_no**)
 	- customer_type
 		- Indicates whether the customer is Individual (‘I’) or Corporate (‘C’), Bank (‘B’)

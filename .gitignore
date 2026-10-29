@@ -1,9 +1,9 @@
 # Exclude Logseq local caches & temporary backups
-# .logseq/
-# bak/
-# logseq/.recycle/
-# logseq/bak/
+.logseq/
+bak/
+logseq/.recycle/
+logseq/bak/
 
 # Exclude OS-specific junk
-# .DS_Store
-# Thumbs.db
+.DS_Store
+Thumbs.db
