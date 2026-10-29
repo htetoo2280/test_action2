@@ -3,7 +3,7 @@ name: Publish Logseq Web Portal
 on:
   push:
     branches:
-      - master  # Trigger build whenever changes push to main
+      - master  # Set to your primary branch name
 
 permissions:
   contents: write
@@ -19,7 +19,8 @@ jobs:
       - name: Build Logseq SPA
         uses: logseq/publish-spa@v0.3.0
         with:
-          version: '0.10.15'  # Match your standard file-based Logseq version
+          version: '0.10.9'
+          url-base-path: '/testing_action/'  # Matches your repo: https://github.com/htetoo2280/testing_action
 
       # Ensure GitHub Pages serves assets correctly
       - name: Add nojekyll file
