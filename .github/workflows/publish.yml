@@ -3,7 +3,7 @@ name: Publish Logseq Web Portal
 on:
   push:
     branches:
-      - main  # Trigger build whenever changes push to main
+      - master  # Trigger build whenever changes push to main
 
 permissions:
   contents: write
