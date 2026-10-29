@@ -1,8 +1,9 @@
 - ```
+  ---testing
   
   Creating ssh 2 files
   
-  ```bush
+  ush
   ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
   ```
   
@@ -42,7 +43,7 @@
   ### ssh need to add 
   ```bush
   ssh-add C:\Users\htetoo.lwin\.ssh\idrsa_dev
-  # check 
+- # check 
   ssh-add -L
   ```
   ### Calling host variable
