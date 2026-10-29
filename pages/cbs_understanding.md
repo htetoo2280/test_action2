@@ -1,4 +1,5 @@
--
+public:: true
+
 - [[CIF]]
 - [[master & transaction & balance]]
 - [[master_link]]
